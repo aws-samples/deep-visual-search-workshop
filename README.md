@@ -52,13 +52,23 @@ $ git clone https://github.com/aws-samples/deep-visual-search-workshop.git
 
 ![](./images/sm-notebook-clear-outputs.png)
 
-8. You're all set! Please follow along the rest of the instruction within the notebook to complete the lab.
+9. Ensure there are no stale SageMaker endpoints in the account from previous sessions. If you see any endpoints, select and delete through the console. Obviously you don't want to delete the endpoints that you need if you're using a personal account.
+
+![](./images/sm-clear-endpoints.png)
+
+10. You're all set! Please follow along the rest of the instruction within the notebook to complete the lab.
 
 ## Important
 
 Please don't forget to run the cleanup commands before leaving. These are given in the last cell of the notebook.
 
 ![](./images/cleanup.png)
+
+## Survey
+
+Thank you for participating in this lab. Please leave us feedback to let us know how we did and for us to improve in future labs. If the QR code below doesn't work, you can click on the link [here](https://eventbox.dev/survey/GZ9V9ZA).
+
+![](./images/survey-qr-code.png)
 
 ## Security
 
